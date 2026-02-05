@@ -1,6 +1,7 @@
 ## Deutsche Wörter
 
-Projeto simples em Go para armazenar e listar palavras em alemão usando MySQL.
+Conexão simples com banco de dados em Go para armazenar e listar palavras em alemão.
+Código feito apenas para estudo e prática de Go com MySQL.
 
 ### Tecnologias
 - Go
@@ -24,3 +25,5 @@ DB_HOST
 DB_PORT  
 DB_NAME  
 ```
+
+<img width="698" height="146" alt="{162031F2-AE97-4B21-B3FE-FF05EDC5862D}" src="https://github.com/user-attachments/assets/23351bd0-876c-4660-94cb-4de6604b678b" />
