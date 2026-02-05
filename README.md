@@ -17,9 +17,10 @@ Projeto simples em Go para armazenar e listar palavras em alemão usando MySQL.
 Este projeto utiliza variáveis de ambiente para configurar a conexão com o banco de dados.
 
 Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
-
+```
 DB_USER  
 DB_PASSWORD  
 DB_HOST  
 DB_PORT  
 DB_NAME  
+```
